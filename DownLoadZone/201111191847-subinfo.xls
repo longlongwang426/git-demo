@@ -1,0 +1,15 @@
+<div>
+	<table cellspacing="0" cellpadding="4" border="0" id="gvSub" style="color:#333333;width:100%;border-collapse:collapse;">
+		<tr style="color:White;background-color:#337EB8;">
+			<td>序号</td><td>课题名称</td><td>适用专业</td><td>适用层次</td><td>课题类型</td><td>课题来源</td><td>课题工作量是否适中</td><td>是否达到课题要求</td><td>指导教师</td><td>指导教师</td><td>简介</td><td>最大选课人数</td><td>已选人数</td><td>审核状态</td>
+		</tr><tr style="color:#333333;background-color:#F7F6F3;">
+			<td>1</td><td>
+                      <a id="gvSub__ctl2_HyperLink1" href="StuList.aspx?id=12">学生信息管理系统</a>
+                      </td><td>网络工程</td><td>本科  </td><td>理论类</td><td>理论研究</td><td><span disabled="disabled"><input id="gvSub__ctl2_cbCheck" type="checkbox" name="gvSub:_ctl2:cbCheck" checked="checked" disabled="disabled" /></span></td><td><span disabled="disabled"><input id="gvSub__ctl2_cbCheck" type="checkbox" name="gvSub:_ctl2:cbCheck" checked="checked" disabled="disabled" /></span></td><td>a</td><td>f</td><td>erewrewrewrew</td><td>10</td><td>0</td><td><span disabled="disabled"><input id="gvSub__ctl2_cbCheck" type="checkbox" name="gvSub:_ctl2:cbCheck" checked="checked" disabled="disabled" /></span></td>
+		</tr><tr style="color:#333333;background-color:#E8F4FF;">
+			<td>2</td><td>
+                      <a id="gvSub__ctl3_HyperLink1" href="StuList.aspx?id=13">图书馆管理系统</a>
+                      </td><td>计算机科学与技术</td><td>本科  </td><td>理论类</td><td>理论研究</td><td><span disabled="disabled"><input id="gvSub__ctl3_cbCheck" type="checkbox" name="gvSub:_ctl3:cbCheck" checked="checked" disabled="disabled" /></span></td><td><span disabled="disabled"><input id="gvSub__ctl3_cbCheck" type="checkbox" name="gvSub:_ctl3:cbCheck" checked="checked" disabled="disabled" /></span></td><td>a</td><td>&nbsp;</td><td>图书馆管理系统</td><td>2</td><td>2</td><td><span disabled="disabled"><input id="gvSub__ctl3_cbCheck" type="checkbox" name="gvSub:_ctl3:cbCheck" checked="checked" disabled="disabled" /></span></td>
+		</tr>
+	</table>
+</div>

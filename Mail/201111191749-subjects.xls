@@ -1,0 +1,47 @@
+<div>
+	<table cellspacing="0" cellpadding="4" bordercolor="#93BEE2" border="0" id="gvSub" style="color:#333333;border-color:#93BEE2;width:100%;border-collapse:collapse;">
+		<tr style="color:White;background-color:#337EB8;">
+			<td>&nbsp;</td><td>序号</td><td>课题名称</td><td>指导教师</td><td>指导教师</td><td style="width:40%;">主要内容</td><td>最大选课人数</td><td>开题时间</td><td>审核状态</td><td>删除</td>
+		</tr><tr style="color:#333333;background-color:#F7F6F3;">
+			<td><input id="gvSub__ctl2_cbSelect" type="checkbox" name="gvSub:_ctl2:cbSelect" onclick="javascript:setTimeout('__doPostBack(\'gvSub:_ctl2:cbSelect\',\'\')', 0)" language="javascript" /></td><td>1</td><td>
+                      <a id="gvSub__ctl2_HyperLink1" href="DetailSub.aspx?id=22">网络管理系统</a>
+                      </td><td>纪鹏</td><td>纪鹏</td><td>主要用于网络测试和管理</td><td>1</td><td>2012</td><td><input id="gvSub__ctl2_cbCheck" type="checkbox" name="gvSub:_ctl2:cbCheck" checked="checked" onclick="javascript:setTimeout('__doPostBack(\'gvSub:_ctl2:cbCheck\',\'\')', 0)" language="javascript" /></td><td onclick="return confirm('确定要删除这个课题的记录吗？')"><a href="javascript:__doPostBack('gvSub','Delete$0')" style="color:#333333;">删除</a></td>
+		</tr><tr style="color:#333333;background-color:#E8F4FF;">
+			<td><input id="gvSub__ctl3_cbSelect" type="checkbox" name="gvSub:_ctl3:cbSelect" onclick="javascript:setTimeout('__doPostBack(\'gvSub:_ctl3:cbSelect\',\'\')', 0)" language="javascript" /></td><td>2</td><td>
+                      <a id="gvSub__ctl3_HyperLink1" href="DetailSub.aspx?id=26">交通调度</a>
+                      </td><td>纪鹏</td><td>纪鹏</td><td>用于交通流量的监测和控制</td><td>2</td><td>2012</td><td><input id="gvSub__ctl3_cbCheck" type="checkbox" name="gvSub:_ctl3:cbCheck" checked="checked" onclick="javascript:setTimeout('__doPostBack(\'gvSub:_ctl3:cbCheck\',\'\')', 0)" language="javascript" /></td><td onclick="return confirm('确定要删除这个课题的记录吗？')"><a href="javascript:__doPostBack('gvSub','Delete$1')" style="color:#333333;">删除</a></td>
+		</tr><tr style="color:#333333;background-color:#F7F6F3;">
+			<td><input id="gvSub__ctl4_cbSelect" type="checkbox" name="gvSub:_ctl4:cbSelect" onclick="javascript:setTimeout('__doPostBack(\'gvSub:_ctl4:cbSelect\',\'\')', 0)" language="javascript" /></td><td>3</td><td>
+                      <a id="gvSub__ctl4_HyperLink1" href="DetailSub.aspx?id=33">计算机操作系统</a>
+                      </td><td>纪鹏</td><td>李芳</td><td>计算机操作系统</td><td>3</td><td>2012</td><td><input id="gvSub__ctl4_cbCheck" type="checkbox" name="gvSub:_ctl4:cbCheck" onclick="javascript:setTimeout('__doPostBack(\'gvSub:_ctl4:cbCheck\',\'\')', 0)" language="javascript" /></td><td onclick="return confirm('确定要删除这个课题的记录吗？')"><a href="javascript:__doPostBack('gvSub','Delete$2')" style="color:#333333;">删除</a></td>
+		</tr><tr style="color:#333333;background-color:#E8F4FF;">
+			<td><input id="gvSub__ctl5_cbSelect" type="checkbox" name="gvSub:_ctl5:cbSelect" onclick="javascript:setTimeout('__doPostBack(\'gvSub:_ctl5:cbSelect\',\'\')', 0)" language="javascript" /></td><td>4</td><td>
+                      <a id="gvSub__ctl5_HyperLink1" href="DetailSub.aspx?id=24">单片机系统设计</a>
+                      </td><td>李芳</td><td>李芳</td><td>单片机</td><td>2</td><td>2012</td><td><input id="gvSub__ctl5_cbCheck" type="checkbox" name="gvSub:_ctl5:cbCheck" checked="checked" onclick="javascript:setTimeout('__doPostBack(\'gvSub:_ctl5:cbCheck\',\'\')', 0)" language="javascript" /></td><td onclick="return confirm('确定要删除这个课题的记录吗？')"><a href="javascript:__doPostBack('gvSub','Delete$3')" style="color:#333333;">删除</a></td>
+		</tr><tr style="color:#333333;background-color:#F7F6F3;">
+			<td><input id="gvSub__ctl6_cbSelect" type="checkbox" name="gvSub:_ctl6:cbSelect" onclick="javascript:setTimeout('__doPostBack(\'gvSub:_ctl6:cbSelect\',\'\')', 0)" language="javascript" /></td><td>5</td><td>
+                      <a id="gvSub__ctl6_HyperLink1" href="DetailSub.aspx?id=25">汇编语言</a>
+                      </td><td>李芳</td><td>纪鹏</td><td>汇编</td><td>1</td><td>2012</td><td><input id="gvSub__ctl6_cbCheck" type="checkbox" name="gvSub:_ctl6:cbCheck" checked="checked" onclick="javascript:setTimeout('__doPostBack(\'gvSub:_ctl6:cbCheck\',\'\')', 0)" language="javascript" /></td><td onclick="return confirm('确定要删除这个课题的记录吗？')"><a href="javascript:__doPostBack('gvSub','Delete$4')" style="color:#333333;">删除</a></td>
+		</tr><tr style="color:#333333;background-color:#E8F4FF;">
+			<td><input id="gvSub__ctl7_cbSelect" type="checkbox" name="gvSub:_ctl7:cbSelect" onclick="javascript:setTimeout('__doPostBack(\'gvSub:_ctl7:cbSelect\',\'\')', 0)" language="javascript" /></td><td>6</td><td>
+                      <a id="gvSub__ctl7_HyperLink1" href="DetailSub.aspx?id=31">计算机操作系统</a>
+                      </td><td>李芳</td><td>李芳</td><td>的撒旦是第三代</td><td>3</td><td>2012</td><td><input id="gvSub__ctl7_cbCheck" type="checkbox" name="gvSub:_ctl7:cbCheck" onclick="javascript:setTimeout('__doPostBack(\'gvSub:_ctl7:cbCheck\',\'\')', 0)" language="javascript" /></td><td onclick="return confirm('确定要删除这个课题的记录吗？')"><a href="javascript:__doPostBack('gvSub','Delete$5')" style="color:#333333;">删除</a></td>
+		</tr><tr style="color:#333333;background-color:#F7F6F3;">
+			<td><input id="gvSub__ctl8_cbSelect" type="checkbox" name="gvSub:_ctl8:cbSelect" onclick="javascript:setTimeout('__doPostBack(\'gvSub:_ctl8:cbSelect\',\'\')', 0)" language="javascript" /></td><td>7</td><td>
+                      <a id="gvSub__ctl8_HyperLink1" href="DetailSub.aspx?id=21">基于单片机的跑马灯系统</a>
+                      </td><td>张国军</td><td>纪鹏</td><td>基于单片机的系统</td><td>1</td><td>2012</td><td><input id="gvSub__ctl8_cbCheck" type="checkbox" name="gvSub:_ctl8:cbCheck" checked="checked" onclick="javascript:setTimeout('__doPostBack(\'gvSub:_ctl8:cbCheck\',\'\')', 0)" language="javascript" /></td><td onclick="return confirm('确定要删除这个课题的记录吗？')"><a href="javascript:__doPostBack('gvSub','Delete$6')" style="color:#333333;">删除</a></td>
+		</tr><tr style="color:#333333;background-color:#E8F4FF;">
+			<td><input id="gvSub__ctl9_cbSelect" type="checkbox" name="gvSub:_ctl9:cbSelect" onclick="javascript:setTimeout('__doPostBack(\'gvSub:_ctl9:cbSelect\',\'\')', 0)" language="javascript" /></td><td>8</td><td>
+                      <a id="gvSub__ctl9_HyperLink1" href="DetailSub.aspx?id=23">基于嵌入式的红绿灯系统</a>
+                      </td><td>张国军</td><td>f</td><td>嵌入式</td><td>2</td><td>2012</td><td><input id="gvSub__ctl9_cbCheck" type="checkbox" name="gvSub:_ctl9:cbCheck" checked="checked" onclick="javascript:setTimeout('__doPostBack(\'gvSub:_ctl9:cbCheck\',\'\')', 0)" language="javascript" /></td><td onclick="return confirm('确定要删除这个课题的记录吗？')"><a href="javascript:__doPostBack('gvSub','Delete$7')" style="color:#333333;">删除</a></td>
+		</tr><tr style="color:#333333;background-color:#F7F6F3;">
+			<td><input id="gvSub__ctl10_cbSelect" type="checkbox" name="gvSub:_ctl10:cbSelect" onclick="javascript:setTimeout('__doPostBack(\'gvSub:_ctl10:cbSelect\',\'\')', 0)" language="javascript" /></td><td>9</td><td>
+                      <a id="gvSub__ctl10_HyperLink1" href="DetailSub.aspx?id=27">使用C#开发的OA自动化系统</a>
+                      </td><td>张国军</td><td>&nbsp;</td><td>使用C#</td><td>3</td><td>2012</td><td><input id="gvSub__ctl10_cbCheck" type="checkbox" name="gvSub:_ctl10:cbCheck" checked="checked" onclick="javascript:setTimeout('__doPostBack(\'gvSub:_ctl10:cbCheck\',\'\')', 0)" language="javascript" /></td><td onclick="return confirm('确定要删除这个课题的记录吗？')"><a href="javascript:__doPostBack('gvSub','Delete$8')" style="color:#333333;">删除</a></td>
+		</tr><tr style="color:#333333;background-color:#E8F4FF;">
+			<td><input id="gvSub__ctl11_cbSelect" type="checkbox" name="gvSub:_ctl11:cbSelect" onclick="javascript:setTimeout('__doPostBack(\'gvSub:_ctl11:cbSelect\',\'\')', 0)" language="javascript" /></td><td>10</td><td>
+                      <a id="gvSub__ctl11_HyperLink1" href="DetailSub.aspx?id=32">基于EDA开发的电子时钟程序</a>
+                      </td><td>张国军</td><td>李芳</td><td>电子始终</td><td>6</td><td>2012</td><td><input id="gvSub__ctl11_cbCheck" type="checkbox" name="gvSub:_ctl11:cbCheck" onclick="javascript:setTimeout('__doPostBack(\'gvSub:_ctl11:cbCheck\',\'\')', 0)" language="javascript" /></td><td onclick="return confirm('确定要删除这个课题的记录吗？')"><a href="javascript:__doPostBack('gvSub','Delete$9')" style="color:#333333;">删除</a></td>
+		</tr>
+	</table>
+</div>
